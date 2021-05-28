@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'AS-ATLB'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_8d8f7d6e73114cb1ad17c0bc4fd11715 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_8dc9a69b7a6b47c5860f5868e87007c0 }}
